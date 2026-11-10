@@ -1,25 +1,6 @@
+
 body {
     font-family: Arial, sans-serif;
     background-color: #f5f0fa;
     color: #333333;
-    margin: 40px;
-    line-height: 1.6;
-}
-
-h1, h2, h3 {
-    color: #65458b;
-}
-
-nav {
-    background-color: #e4d5f2;
-    padding: 15px;
-}
-
-nav a {
-    margin-right: 20px;
-    color: #65458b;
-}
-
-img {
-    border-radius: 12px;
 }
